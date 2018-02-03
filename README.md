@@ -14,3 +14,5 @@ Define your circuit and create an instance from that in *HazardRecognizer.v*. Th
 
     $ ./Simulate.do
     
+### Acknowledgement
+The implementation of Gray code is obtained from [online resources](http://computer-programming-forum.com/41-verilog/91272a60bbc35911.htm).
