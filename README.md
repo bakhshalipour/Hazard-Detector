@@ -2,7 +2,7 @@
 
 If several paths from the inputs to the output of a combinational circuit have varying delays, unwanted switching changes may arise in the output. This problem is known as [Hazard](https://www.allaboutcircuits.com/technical-articles/hazards-in-combinational-logic/) in combinational circuits. Hazards are challenging in verification of digital systems. 
 
-This project targets identifying *all* hazards of a given logic, using a simple and high-level simulation-based approach. The program takes a circuit (described in any HDL) as input and after simulating the logic (using any HDL simulator) identifies that whether the circuit has any hazard or it is correct. The below figure depicts the overview of this project.
+This project targets identifying Hazards of a given logic, using a simple and high-level simulation-based approach. The program takes a circuit (described in any HDL) as input and after simulating the logic (using any HDL simulator) identifies that whether the circuit has Hazard or it is correct. The below figure depicts the overview of this project.
 
 ![alt text](https://github.com/bakhshalipour/Hazard-Detector/blob/master/hazard-detector-high-level.png)
 
